@@ -10,8 +10,5 @@ To compare machine learning models (e.g., BERT vs. SVM) and pick the best one fo
 
 pip install -r requirements.txt
 
-## **Dataset**
-We'll Use: link
-
 ## **Team Members**
 Hassan Alsayed, Mohammed Albarazi, Arwa Alomari
