@@ -8,5 +8,10 @@ To compare machine learning models (e.g., BERT vs. SVM) and pick the best one fo
    ```bash
    git clone https://github.com/your-username/ML-Project.git
 
-
 pip install -r requirements.txt
+
+## **Dataset**
+We'll Use: link
+
+## **Team Members**
+Hassan Alsayed, Mohammed Albarazi, Arwa Alomari
