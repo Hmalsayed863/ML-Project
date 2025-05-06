@@ -20,9 +20,10 @@ This project implements a machine learning-based Intrusion Detection System (IDS
 
 This project is designed to run in Google Colab, which already includes most dependencies. If running locally, install the following:
 
-bash
-pip install pandas scikit-learn matplotlib seaborn
 
+```bash
+pip install pandas scikit-learn matplotlib seaborn
+```
 
 ## 🚀 Getting Started
 
