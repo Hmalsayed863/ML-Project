@@ -29,7 +29,7 @@ pip install pandas scikit-learn matplotlib seaborn
 1. Clone this repository or download the notebook file:
 
 bash
-git clone https://github.com/YOUR_USERNAME/intrusion-detection-ml.git
+git clone https://github.com/Hmalsayed863/ML-Project.git
 
 2. Open the Notebook
 - Google Colab (Recommended):
