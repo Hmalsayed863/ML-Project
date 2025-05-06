@@ -79,6 +79,4 @@ You can easily modify the notebook to:
 - Visualize more metrics
 
 👩‍💻 Authors : 
-Arwa Alomari
-Hassan Alsayed
-Mohamed Albarazi
+Arwa Alomari, Hassan Alsayed, Mohammed Albarazi
