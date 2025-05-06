@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/91c7e11c-7892-4ec1-81ec-5c44d65170ee)# Intrusion Detection Using Machine Learning
+# Intrusion Detection Using Machine Learning
 
 This project implements a machine learning-based Intrusion Detection System (IDS) using a Jupyter notebook in Google Colab. It aims to detect malicious activity in network traffic through supervised learning models. The approach includes preprocessing, model training, evaluation, and visualization of results.
 
